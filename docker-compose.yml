@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  dni:
+    image: starefossen/node-imagemagick
